@@ -1,0 +1,33 @@
+<!--Project Name: Hands-On Exercises 6.1-6.3(HW20)
+    Author:Jemia Battle
+    Date Last Modified: May 2, 2019
+-->
+
+1. CSS ID for the Following attributes: 
+#idsetup { float: left;
+         background-color: #D2B48C;
+         font-family: Verdana, sans-serif;
+         font-size: 40px;
+         padding: 20px;}
+
+HTML <nav id="floatSetup"></nav>
+
+
+2.CSS to configure a class headline 
+
+#headline {color: #E799A3;
+           text-decoration: underline dotted #000000;}
+
+HTML <h2 class"headline"></h2>
+
+
+3.CSS Position on page 
+
+#position { background-color: #D3D3D3;
+            position: absolute;
+            top: 20px;
+            right: 40px;
+            border-style: 2px solid #000000;}
+
+
+
